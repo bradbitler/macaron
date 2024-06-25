@@ -3,6 +3,8 @@
 
 Macaron is a resume website designed for creatives and others who seek an alternative to the standard Notion-style resume templates. With Macaron, you can create a visually appealing and unique resume that stands out from the crowd.
 
+==next.js== x ==tailwind css== x ==shadcn== x ==framer motion==
+
 
 ## Sections
 
