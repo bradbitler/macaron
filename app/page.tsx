@@ -26,7 +26,11 @@ export default function Home() {
 						<WorkHistory />
 						<Links />
 					</div>
+					<div className="flex flex-col items-center gap-3 pb-12 z-0">
+						<a href="https://github.com/bradbitler/macaron">Made with macaron in San Francisco</a>
+					</div>
 				</div>
+
 			</main>
 		</>
 	);
