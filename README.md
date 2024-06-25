@@ -1,4 +1,4 @@
-![macaron]((https://us.lamarguerite.com/cdn/shop/products/cotton-candy-macarons-la-marguerite_300x300.png?v=1618290618))
+![macaron](https://us.lamarguerite.com/cdn/shop/products/cotton-candy-macarons-la-marguerite_300x300.png))
 
 # Macaron 
 
