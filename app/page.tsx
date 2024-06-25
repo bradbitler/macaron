@@ -7,10 +7,10 @@ import Links from "@/components/Links";
 
 export const metadata: Metadata = {
 	title: "Brad Bitler - Product Design Lead",
-	description: "Brad Bitler is a Product Design Lead at Apple Inc.",
+	description: "Brad Bitler is a Product Design Lead at Apple Inc specializing in leading user experience design, commerce productization, and AI powered interactions.",
 	openGraph: {
 		title: "Brad Bitler - Product Design Lead",
-		description: "Your Open Graph Description",
+		description: "Brad Bitler is a Product Design Lead at Apple Inc specializing in leading user experience design, commerce productization, and AI powered interactions.",
 	},
 };
 
