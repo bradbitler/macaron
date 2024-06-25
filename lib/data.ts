@@ -33,4 +33,7 @@ export const quotes = [
 export const links = [
     { name: "LinkedIn", url: "https://www.linkedin.com/in/bradbitler/" },
     { name: "X.com", url: "https://x.com/BradBitler" },
+    { name: "GitHub", url: "https://github.com/bradbitler" },
+    { name: "Macaron - NextJS Resume Template", url: "https://github.com/bradbitler/macaron" },
 ];
+
