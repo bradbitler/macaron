@@ -16,8 +16,8 @@ export default function Links() {
 							<div className="space-y-6">
 								{links.map((link, index) => (
 									<div key={index} className={index === links.length - 1 ? "flex items-center py-4" : "flex items-center border-b py-4"}>
-										<div className="w-full sm:w-1/6">
-											<a href={link.url} className="font-bold">
+										<div className="w-full sm:w-1/6 ">
+											<a href={link.url} className="font-bold hover:text-purple-200">
 												{link.name}
 											</a>
 										</div>
